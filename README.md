@@ -1,1 +1,3 @@
-#Medico - react app for online appointment booking system.  
+Medico
+
+Your one-stop solution for online appointment booking.
